@@ -1,5 +1,11 @@
-### Hi there 👋
-- 🔭 I’m currently working on Angular, Salesforce, Node, MongoDB.
+### Hey there 👋, glad you made your way here 😄
+- 🔭 I’m currently working on Salesforce Development and also in Vlocity Development. 
+- 🌱 Shooting up my knowledge in Angular, Node.JS, and Java.
+- 👯 I'm ready to collaborate on anything mesmerising and mind bobbling.
+- 🤔 I’m looking for help with java, jobs and life 😂.
+- 💬 Ask me about anything that hits your mind.
+- 📫 How to reach me: Email: akshaysethia@live.com/ Phone: +91-9841481122
+- ⚡ Fun fact: Vlocity is now aquired by Salesforce 😃
 
 <!--
 **akshaysethia/akshaysethia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
