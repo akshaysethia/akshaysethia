@@ -4,7 +4,7 @@
 - 👯 I'm ready to collaborate on anything mesmerising and mind bobbling.
 - 🤔 I’m looking for help with java, jobs and life 😂.
 - 💬 Ask me about anything that hits your mind.
-- 📫 How to reach me: Email: akshaysethia@live.com/ Phone: +91-9841481122
+- 📫 How to reach me: Email: akshaybhai98@gmail.com/ Phone: +91-9841481122
 - ⚡ Fun fact: Vlocity is now aquired by Salesforce 😃
 
 <!--
